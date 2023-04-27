@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephlivecchi, a registered nurse
+- 👋 Hi, I’m @stephlivecchi, a registered nurse in NYC
 - 👀 I’m interested in all things data science, analytics, and statistics
 - 🌱 I’m currently learning how to code in python
 - 💞️ I’m looking to collaborate on clinical data analytics projects
