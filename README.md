@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephlivecchi, a registered nurse and clinical data analyst in NYC
 - 👀 I’m interested in all things clinical data, analytics, and statistics
 - 🌱 I’m currently learning how to code in python
-- 💞️ I’m looking to collaborate on clinical data analytics projects
+- 💞️ I would love to collaborate on clinical data analytics projects
 - 📫 How to reach me stephlivecchi@gmail.com
 
 <!---
